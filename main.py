@@ -5,6 +5,6 @@ def test():
 test()
 
 def blabla():
-    a = 10
+    a = 30
     b = 20
     return a + b
